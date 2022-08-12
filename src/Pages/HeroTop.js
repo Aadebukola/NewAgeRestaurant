@@ -177,7 +177,7 @@ const Img1 = styled.img`
   width: 500px;
   height: 578px;
   left: 260px;
-  top: 150px;
+  top: 90px;
   position: absolute;
 `;
 
